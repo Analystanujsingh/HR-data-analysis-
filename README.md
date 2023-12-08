@@ -39,6 +39,3 @@ Both `Hr data analytics.ipynb` and `Hr data analysis.ipynb` cover the following 
 
 ## Contributing
 Contributions to this project are welcome! Fork the repository and create pull requests with enhancements or additional functionalities.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
